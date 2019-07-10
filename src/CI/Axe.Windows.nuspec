@@ -15,9 +15,10 @@
     <language>en-US</language>
     <copyright>© Microsoft and contributors</copyright>
     <tags>axe windows accessibility automation</tags>
+    <releaseNotes>https://github.com/microsoft/axe-windows/releases</releaseNotes>
   </metadata>
   <files>
     <file src="bin\$configuration$\*.dll" target="lib\net471" />
     <file src="bin\$configuration$\Axe.Windows.Automation.xml" target="lib\net471" />
-  </files> 
+  </files>
 </package>
